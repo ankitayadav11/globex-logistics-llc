@@ -152,7 +152,7 @@ const Footer = () => {
                     size="sm"
                     color="#E64A2F"
                   >
-                    GLOBEX LOGISTICS LLC
+                    GLOBEX LOGISTICS UAE LLC
                   </Heading>
                   {isExpanded ? (
                     <FiMinus fontSize="12px" />
